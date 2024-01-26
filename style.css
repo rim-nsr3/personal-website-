@@ -129,7 +129,7 @@ nav button#menuButton {
 
 .main .left p {
   color: #9db6c6;
-  font-size: 20.5px;
+  font-size: 20px;
   margin-top: 20px;
 }
 
@@ -214,9 +214,9 @@ nav button#menuButton {
 
 .experience .skill-items .item p {
   margin-top: 20px;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 22px;
-  color: #1c1e53;
+  color: #0d0e2e;
 }
 
 .about {
@@ -247,7 +247,7 @@ nav button#menuButton {
 }
 
 .about .right p {
-  font-size: 18px;
+  font-size: 17px;
   margin-top: 30px;
   color: #9db6c6;
 }
@@ -326,7 +326,7 @@ nav button#menuButton {
 }
 
 .portfolio .portfo-items .item .info p {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .portfolio .portfo-items .item .info a {
@@ -365,13 +365,14 @@ nav button#menuButton {
 }
 
 .contact p {
-  font-size: 18px;
+  font-size: 20px;
   margin-top: 30px;
   color: #9db6c6;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   width: 600px;
+  line-height: 0.75cm;
 }
 
 form {
